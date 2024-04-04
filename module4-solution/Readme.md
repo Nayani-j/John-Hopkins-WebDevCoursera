@@ -2,6 +2,5 @@
 
 # Module-4 Coding Assignment
 
-Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE]()
+ [CLICK HERE](https://github.com/Nayani-j/John-Hopkins-WebDevCoursera/blob/main/module4-solution/index.html)
